@@ -1,0 +1,19 @@
+---
+title: "Milestone 2"
+author: "Anan Hafez"
+date: "9/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Project 1: "Analysis of death row executions in Texas with an emphasis on sentiment analysis" by Kemi Akezuna
+
+I thought this project was very interesting; I didn't know data on executions in the U.S. was so available. This project was really successful in highlighting how important a role Texas plays in death penalty rates. I felt that the graphs and visualizations that Kemi used were very good at higlighting this disparity. I particulary liked the stacked bar chart; I would have never thought to use it but it showed how Texas represented a large preoportion of U.S. excecutions over time. I noticed that she had to combine data from Texas with data from the rest of the country that seemed to require a fair bit of cleaning. I wonder if Kemi found any missing names between the different data sets she was comparing. As far as improvements, I think a little bit more commentary about patterns or trends in the data would've been helpful. I could kind of see some on my own, but I'm sure I didn't see everything that the data could point to.
+
+### Project 2: "An Analysis of Crime in Chicago" by Taehwan Kim
+
+I really fell in love with the visualizations that Taehwan created to display crime in Chicago. Before I begin, however, I am very impressed with how much data was collected for this project. Displaying and combing through 900,000 (wow!) observations sounds very difficult, and that's not even considering how long it probably took to clean it properly. Back to the visualizations: I enjoyed the slider allowing me to adjust the years of the graphs which would also change the limits of the x and y axis. Even better though, I was wowed by the map of Chicago showing which parts of the city are most dangerous. I definitely want to learn how to do this so that I may add court visualizations for my potential final projects on basketball. Also, the comments at the bottom of graphs explaining the important trends and patterns was a very welcome addition. My only complaint with this app is that it would occasionally crash so I had spend a fair bit of time relaoding it.
+
